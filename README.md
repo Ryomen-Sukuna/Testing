@@ -56,5 +56,6 @@ _Support to get custom thumbnail API for your Bot_
 - `/stopvc` : Stop the Stream
 
 ## Thanks to
+- All credits to [ArnabXD](https://github.com/ArnabXD/TGVCBot) as Owner this repo
 - [@cachecleanerjeet](https://github.com/cachecleanerjeet) for [JioSaavn API](https://github.com/cachecleanerjeet/JiosaavnAPI)
 - Respective devs of all the packages/libraries used.
